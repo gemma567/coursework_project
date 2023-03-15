@@ -1,0 +1,104 @@
+Your results are as follows:
+The best match is English Springer Spaniel, with an identity of 99.78% and a p-value of 0.0
+
+Percentage across database:
+	Dog sequence id and Breed	Percentage match
+gb|CM023446.1|	boxer	99.64
+gb|MW916043.1|	Portuguese Warren dog, small size, smooth hair	99.58
+gb|MW916029.1|	Azores Cattle dog	99.58
+gb|MW916019.1|	Aidi	99.58
+gb|MW916055.1|	Portuguese Sheepdog	99.74
+gb|MW916054.1|	Portuguese Sheepdog	99.74
+gb|MW916050.1|	Estrela Mountain dog	99.58
+gb|MW916042.1|	Portuguese Warren dog, small size, weired hair	99.77
+gb|MW916039.1|	Portuguese Warren dog, medium size, weired hair	99.73
+gb|KU290784.1|	Mixed breed	99.59
+gb|KU290444.1|	Camp dog	99.58
+gb|MW916071.1|	Portuguese Pointing Dog-long hair	99.72
+gb|MW916070.1|	Portuguese Pointing Dog-long hair	99.72
+gb|MW916069.1|	Portuguese Pointing Dog-long hair	99.72
+gb|MW916068.1|	Portuguese Pointing Dog	99.72
+gb|MW916067.1|	Portuguese Pointing Dog	99.72
+gb|MW916061.1|	Algarve Barrocal Dog	99.72
+gb|MW916059.1|	Portuguese Pointing Dog	99.72
+gb|MW916027.1|	Portuguese Water dog	99.72
+gb|MW916026.1|	Estrela Mountain dog	99.72
+gb|KU290937.1|	Mixed breed	99.57
+gb|KU290805.1|	Mixed breed	99.58
+gb|KU290767.1|	Mixed breed	99.57
+gb|KU290605.1|	Mixed breed	99.57
+gb|KU290571.1|	Mixed breed	99.58
+gb|KU290440.1|	Camp dog	99.57
+gb|MW916063.1|	Algarve Barrocal Dog	99.72
+gb|MW916023.1|	Sloughi	99.75
+gb|KU291006.1|	German Shepherd cross	99.56
+gb|KU290872.1|	Husky	99.58
+gb|KU290707.1|	Gambian local	99.58
+gb|KU290678.1|	Mixed breed	99.58
+gb|KU290496.1|	Mixed breed	99.75
+gb|KU290400.1|	Terrier cross	99.58
+gb|MW916074.1|	English Pointer	99.7
+gb|MW916017.1|	Aidi	99.65
+gb|MW916016.1|	Aidi	99.63
+gb|KU290830.1|	Mixed breed	99.74
+gb|KU290775.1|	Mixed breed	99.72
+gb|KU290567.1|	German Shepherd	99.71
+gb|KU290417.1|	Mixed breed	99.74
+gb|MW916022.1|	Sloughi	99.62
+gb|KU291013.1|	Mixed breed	99.73
+gb|KU290986.1|	Gambian local	99.73
+gb|KU290984.1|	Dachshund	99.71
+gb|KU290919.1|	Canis Panther	99.71
+gb|KU290726.1|	Mixed breed	99.71
+gb|MW916037.1|	Castro Laboreiro Watchdog	99.62
+gb|MW916036.1|	Castro Laboreiro Watchdog	99.62
+gb|MW916035.1|	Castro Laboreiro Watchdog	99.62
+gb|MW916033.1|	Castro Laboreiro Watchdog	99.62
+gb|MW916030.1|	Azores Cattle dog	99.62
+gb|KU290781.1|	Mixed breed	99.72
+gb|KU290739.1|	Mixed breed	99.72
+gb|KU290702.1|	German shepherd	99.72
+gb|KU290667.1|	Mixed breed	99.7
+gb|KU290634.1|	Indian local	99.7
+gb|KU290537.1|	Rottweiler cross	99.7
+gb|KU290531.1|	Mixed breed	99.7
+gb|DQ480498.1|	Miniature Schnauzer	99.6
+gb|MW916077.1|	EpagneulBreton	99.61
+gb|MW916015.1|	Castro Laboreiro Watchdog	99.61
+gb|KU290900.1|	Great Dane cross	99.7
+gb|KU290887.1|	Dachshund	99.62
+gb|KU290735.1|	Mixed breed	99.71
+gb|KU290694.1|	Mixed breed	99.7
+gb|KU290670.1|	Mixed breed	99.71
+gb|KU290640.1|	Mixed breed	99.71
+gb|KU290632.1|	Indian local	99.7
+gb|KU290585.1|	Staffordshire Bull Terrier	99.7
+gb|KU290529.1|	Mixed breed	99.7
+gb|KU290506.1|	Mixed breed	99.7
+gb|MH105046.1|	Brazilian Terrier	99.71
+gb|MW916064.1|	Algarve Barrocal Dog	99.61
+gb|MW916062.1|	Algarve Barrocal Dog	99.61
+gb|KU291092.1|	Terrier cross	99.69
+gb|KU291073.1|	Mixed breed	99.69
+gb|KU290953.1|	Mastiff	99.61
+gb|KU290730.1|	Mixed breed	99.61
+gb|KU290649.1|	Black Retriever	99.7
+gb|KU290615.1|	Indian local	99.69
+gb|KU290591.1|	Mixed breed	99.7
+gb|MW916034.1|	Castro Laboreiro Watchdog	99.64
+gb|KU290971.1|	Cocker Spaniel	99.68
+gb|KU290786.1|	Mixed breed	99.68
+gb|KU290610.1|	Indian local	99.61
+gb|KU290594.1|	Pit bull	99.68
+gb|MW916066.1|	Algarve Barrocal Dog	99.58
+gb|KU290988.1|	Gambian local	99.53
+gb|KU290876.1|	German Shepherd cross	99.6
+gb|DQ480496.1|	Irish Soft Coated Wheaten Terrier	99.72
+gb|KU290747.1|	Shar Pei	99.59
+gb|KU290636.1|	Indian local	99.59
+gb|AY656744.1|	English Springer Spaniel	99.78
+gb|KU290934.1|	Mixed breed	99.58
+gb|KU290523.1|	Mixed breed	99.55
+gb|KU290442.1|	Camp dog	99.58
+gb|MW916065.1|	Algarve Barrocal Dog	99.56
+gb|MW916075.1|	EpagneulBreton	99.53
