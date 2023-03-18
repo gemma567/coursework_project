@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dog Breed Alignment</title>
+</head>
+<body>
+    <h1>Dog Breed Alignment Results</h1>
+    <p>Best breed: {{ best_breed }}</p>
+    <p>Best percentage chance: {{ best_percentage_chance }}</p>
+    <p>P-value: {{ p_value }}</p>
+    <h2>Percentage matches across the database:</h2>
+    <ul>
+        {% for dog_id, (breed, percentage) in doggy_dict.items() %}
+        <li>{{ dog_id }}: {{ breed }} - {{ percentage }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

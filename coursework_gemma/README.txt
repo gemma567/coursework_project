@@ -18,6 +18,9 @@ Usage
 To use this script, run breed_finder.py, providing your name and the
 filename of the file containing the mystery sequence to be tested as arguments.
 
+Alternatively - you can run app.py to see the results of as a webpage output.
+This serves the results of the mystery.fa alignment with the database at localhost:5000
+
 
 Output
 The script will generate a results folder with a file named your_name_results.txt.
