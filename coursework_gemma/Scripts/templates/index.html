@@ -1,18 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Dog Breed Alignment</title>
+    <meta charset="UTF-8">
+    <meta name ="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css', _external=True) }}">
 </head>
 <body>
     <h1>Dog Breed Alignment Results</h1>
-    <p>Best breed: {{ best_breed }}</p>
-    <p>Best percentage chance: {{ best_percentage_chance }}</p>
+    <p>The best matching breed is: {{ best_breed }}</p>
+    <p>With a percentage chance of : {{ best_percentage_chance }}</p>
     <p>P-value: {{ p_value }}</p>
     <h2>Percentage matches across the database:</h2>
-    <ul>
-        {% for dog_id, (breed, percentage) in doggy_dict.items() %}
-        <li>{{ dog_id }}: {{ breed }} - {{ percentage }}</li>
-        {% endfor %}
-    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Dog ID</th>
+                <th>Breed</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for dog_id, (breed, percentage) in doggy_dict.items() %}
+            <tr>
+                <td>{{ dog_id }}</td>
+                <td>{{ breed }}</td>
+                <td>{{ percentage }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

@@ -12,13 +12,14 @@ This script requires the following packages to be installed:
 Biopython
 pandas
 scipy
+flask
 
 
 Usage
-To use this script, run breed_finder.py, providing your name and the
-filename of the file containing the mystery sequence to be tested as arguments.
+To use this script, run breed_finder.py, providing your name and the path of the
+file containing the mystery sequence to be tested as arguments.
 
-Alternatively - you can run app.py to see the results of as a webpage output.
+Alternatively - for a better visual output - you can run app.py to see the results of as a webpage.
 This serves the results of the mystery.fa alignment with the database at localhost:5000
 
 
@@ -29,6 +30,12 @@ This file will contain the following information:
 The best match dog breed with its percentage match to the mystery sequence.
 The p-value of the independent samples t-test.
 A Pandas DataFrame with the percentage match for each dog breed in the database.
+
+The Flask app will return a webpage containing:
+
+The best match dog breed with its percentage match to the mystery sequence.
+The p-value of the independent samples t-test.
+A table showing the percentage match for each dog breed in the database.
 
 
 Contributors
