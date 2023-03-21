@@ -3,7 +3,8 @@ Identify the most similar sequence
 This Python script takes a mystery DNA sequence and aligns it with a database
 of dog breed DNA sequences to find the highest percentage match. It also
 generates a Pandas DataFrame with the percentage match for each dog breed
-in the database and gives the p-value.
+in the database and gives the p-value. 
+There is also a script to create a phylogenetic tree using a file created in MEGA.
 
 
 Requirements
@@ -14,6 +15,7 @@ pandas
 scipy
 flask
 matplotlib
+
 
 
 Usage
